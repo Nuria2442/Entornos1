@@ -1,0 +1,21 @@
+Justificación de la Refactorización
+Cambios realizados
+1. Nombre de la clase
+
+Antes: p
+Después: AnalizadorNotas
+Razón: El nombre debe explicar qué hace la clase.
+
+2. Nombres de variables
+
+n → notas (más descriptivo)
+a → vecesQueAparece (explica qué cuenta)
+b → (eliminada, no era necesaria)
+c → notaMasAlta (indica que es la nota máxima)
+s → suma (indica que es una suma)
+r → promedio (indica que es el promedio)
+
+Razón: Nombres claros facilitan entender el código.
+3. Comentarios
+He añadido comentarios explicando cada parte del código.
+Razón: Los comentarios ayudan a entender qué hace cada sección.
